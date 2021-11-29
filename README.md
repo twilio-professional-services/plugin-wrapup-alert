@@ -12,13 +12,13 @@ This plugin will displays two notifications during the wrap up phase for the tas
 Sample demo is provided below :
 
 The first alert will be displayed a few seconds before the wrap up time :
-![Plugin Demo](https://code.hq.twilio.com/cjose/plugin-wrapup-alert/blob/master/resources/first_alert.gif)
+![Plugin Demo](https://github.com/twilio-professional-services/plugin-wrapup-alert/blob/main/resources/first_alert.gif)
 
 The second alert will be displayed after the agent has crossed the wrap up time :
-![Plugin Demo](https://code.hq.twilio.com/cjose/plugin-wrapup-alert/blob/master/resources/second_alert.gif)
+![Plugin Demo](https://github.com/twilio-professional-services/plugin-wrapup-alert/blob/main/resources/second_alert.gif)
 
 The agent can dismiss these notifications anytime by clicking on the dismiss label:
-![Plugin Demo](https://code.hq.twilio.com/cjose/plugin-wrapup-alert/blob/master/resources/dismiss_alert.gif)
+![Plugin Demo](https://github.com/twilio-professional-services/plugin-wrapup-alert/blob/main/resources/dismiss_alert.gif)
 
 
 ## Requirements
