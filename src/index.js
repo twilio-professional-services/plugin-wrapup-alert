@@ -1,4 +1,4 @@
 import * as FlexPlugin from 'flex-plugin';
-import WrapupTimeoutPlugin from './WrapupTimeoutPlugin';
+import AgentSkillsUpdatedNotification from './AgentSkillsUpdatedNotification';
 
-FlexPlugin.loadPlugin(WrapupTimeoutPlugin);
+FlexPlugin.loadPlugin(AgentSkillsUpdatedNotification);

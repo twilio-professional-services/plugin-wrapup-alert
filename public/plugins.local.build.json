@@ -1,8 +1,8 @@
 [
   {
-    "name": "WrapupTimeoutPlugin",
+    "name": "AgentSkillsUpdatedNotification",
     "version": "0.0.0",
-    "class": "WrapupTimeoutPlugin",
+    "class": "AgentSkillsUpdatedNotification",
     "requires": [
       {
         "@twilio/flex-ui": "^1"
